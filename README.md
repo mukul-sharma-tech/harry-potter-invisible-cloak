@@ -35,8 +35,8 @@ Install dependencies:
 
 pip install opencv-python numpy
 Run the script:
+python cloth.py
 
-python invisible_cloak.py
 📌 Usage Instructions
 Prepare Your Cloak:
 
