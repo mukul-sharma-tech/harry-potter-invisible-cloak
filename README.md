@@ -29,9 +29,6 @@ Time for background capturing delays
 🖥️ Installation
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/mukul-sharma-tech/harry-potter-invisible-cloak.git
 cd harry-potter-invisible-cloak
 Install dependencies:
