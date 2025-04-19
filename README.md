@@ -3,7 +3,7 @@
 This project allows you to experience your very own Harry Potter Invisible Cloak! Using your webcam and OpenCV, the cloak effect will make you invisible by removing the color of your red cloak from the video feed in real-time, just like the magical cloak from the Harry Potter series.
 
 📽️ Demo
-
+https://www.linkedin.com/posts/mukul-sharma-830a152b2_python-opencv-machinelearning-activity-7319432179359383552-2Mqv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtBz2QBZ3-aq9VHReVvW2227J9ZyVQgHuQ
 A real-time webcam feed is used to detect a red cloak, removing it from the frame and creating an "invisible" effect.
 
 Wear a red cloak or any red garment to trigger the effect.
